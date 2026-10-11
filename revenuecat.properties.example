@@ -1,0 +1,10 @@
+# Copy to revenuecat.properties. Public Android SDK keys only; never a secret sk_ key.
+# goog_ = Google Play; test_ = RevenueCat Test Store (debug builds only).
+publicSdkKey=
+entitlementId=mindful_plus
+placementId=session_complete
+# Optional comma-separated store product IDs for the SDK lab product lookup.
+productIds=
+# Optional links for your own published app policies.
+privacyUrl=
+termsUrl=
