@@ -50,7 +50,7 @@ The live source also handles user cancellation, pending payment and errors; thos
 | [05 · Monthly selection and a simulated plan change](#journey-05-monthly-selection-and-a-simulated-plan-change) | Subscription product/base-plan replacement intent |
 | [06 · An entitled member completes premium content](#journey-06-an-entitled-member-completes-premium-content) | Active access; suppress upgrade prompts for members |
 | [07 · Restore with and without an existing purchase](#journey-07-restore-with-and-without-an-existing-purchase) | Restore result and exact-entitlement validation |
-| [08 · Customer Center and subscription-management entry points](#journey-08-customer-center-and-subscriptionmanagement-entry-points) | Customer Center and store-management integration |
+| [08 · Customer Center and subscription-management entry points](#journey-08-customer-center-and-subscription-management-entry-points) | Customer Center and store-management integration |
 | [09 · Hosted paywall setup and policy placeholders](#journey-09-hosted-paywall-setup-and-policy-placeholders) | Hosted Paywall wiring and app policy URLs |
 | [10 · Inspect customer state, offerings, products and balances](#journey-10-inspect-customer-state-offerings-products-and-balances) | CustomerInfo, offerings, products, currencies, events |
 | [11 · Customer identity, attributes and logout](#journey-11-customer-identity-attributes-and-logout) | Identity, attributes, targeting synchronization |
